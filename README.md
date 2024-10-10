@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TheMadeX
+- 👀 I’m interested in Bioinformatics
+- 🌱 I’m currently learning Python and R
+- 📫 How to reach me: insta: ghinea_madalin
